@@ -1,5 +1,3 @@
-// import ProjectList from '@/modules/home/components/project-list'
-
 import ProjectForm from "@/modules/home/components/project-form";
 import Image from "next/image";
 import React from "react";
